@@ -5,15 +5,16 @@
 
 # The archivist package compendium
 
+## Archiving artifacts with their chaining code
 
 Some text about package
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 library(archivist)
 exampleRepoDir <- getwd()
 createEmptyRepo( exampleRepoDir )
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # example 1
 library(dplyr)
 
@@ -29,7 +30,7 @@ hflights %>%
    saveToRepo( exampleRepoDir )  
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # example 2
 library(Lahman)
 
@@ -46,7 +47,7 @@ Batting %.%
    saveToRepo( exampleRepoDir )
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # example 3
 crime.by.state <- read.csv("CrimeStatebyState.csv")
 crime.by.state %.%
@@ -59,7 +60,7 @@ crime.by.state %.%
    saveToRepo( exampleRepoDir )
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # example 4
 library(ggplot2)
 
@@ -73,7 +74,7 @@ head( 10) %>%
    saveToRepo( exampleRepoDir )
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # example 5
 data(mtcars)
 mtcars %.% 
@@ -85,7 +86,7 @@ mtcars %.%
 
 ```
 
-```{r}
+```{r, message=FALSE,comment="", warning=FALSE}
 # summary
 showLocalRepo( exampleRepoDir )[, 2]
 showLocalRepo( exampleRepoDir, "tags" )[,-3]
