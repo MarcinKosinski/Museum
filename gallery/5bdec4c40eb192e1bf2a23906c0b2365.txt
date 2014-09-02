@@ -1,0 +1,7 @@
+Source: local data frame [3 x 4]
+Groups: cyl
+
+  cyl am   avgmpg   avgwt
+1   4  0 22.90000 2.93500
+2   4  1 28.07500 2.04225
+3   6  1 20.56667 2.75500

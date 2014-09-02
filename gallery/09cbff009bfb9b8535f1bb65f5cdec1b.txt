@@ -1,0 +1,5 @@
+Source: local data frame [2 x 3]
+
+   Type.of.Crime num.types counts
+1 Property Crime         3 405990
+2  Violent Crime         4  85839

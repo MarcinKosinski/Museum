@@ -1,0 +1,10 @@
+Source: local data frame [6 x 5]
+Groups: cut, clarity
+
+   cut clarity color meancarat ndiamonds
+1 Fair      I1     D 1.8775000         4
+2 Fair      I1     E 0.9688889         9
+3 Fair      I1     F 1.0234286        35
+4 Fair      I1     G 1.2264151        53
+5 Fair      I1     H 1.4986538        52
+6 Fair      I1     I 1.3229412        34

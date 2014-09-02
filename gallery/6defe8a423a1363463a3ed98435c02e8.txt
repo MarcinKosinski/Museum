@@ -1,0 +1,8 @@
+Source: local data frame [5 x 2]
+
+   playerID total
+1  rosepe01  3562
+2 yastrca01  3308
+3 aaronha01  3298
+4 henderi01  3081
+5  cobbty01  3035
