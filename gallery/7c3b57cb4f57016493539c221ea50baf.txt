@@ -1,0 +1,63 @@
+                                                  statid
+1  0629efeeaca56d495f27160e413b680a:09c1f1:1418675299:v3
+4  b352f35d3a278cf2e8e9c49078cfae99:727a71:1415095309:v3
+5  00cac6ed307cb8e83e8838bf27aec688:6ce05b:1418840934:v3
+6  b387e3faaa01677cf348bdd97d6018b5:505d13:1418184154:v3
+8  060c11523e0f7f6d36412f12cc008b7b:d92d71:1418842405:v3
+10 00a5055818aeb09a11f835e81147a5ed:d45459:1405712191:v3
+              pvid            datetime  city login
+1  1f812f6864be160 2014-12-17 19:53:02 43123  NULL
+4  1f812f66c0090f0 2014-12-17 19:52:55 43763  NULL
+5  1f812f67f296250 2014-12-17 19:53:00 43935  NULL
+6  1f8132227d1a690 2014-12-17 20:24:18 43116  NULL
+8  1f8132241fc33a0 2014-12-17 20:24:16 43289  NULL
+10 1f8120d22aab9e0 2014-12-17 17:05:41   462  NULL
+   site_name entered_from area_cliks
+1         NN                       1
+4         NN                       1
+5         NN                       0
+6         NN                       1
+8         NN                       1
+10        NN                       1
+   naglowek_cliks cliks mail_cliks glo_cliks
+1               0     1          0         0
+4               0     1          0         0
+5               0     0          0         0
+6               0     1          0         1
+8               0     1          0         0
+10              0     1          0         0
+   sport_cliks finanse_cliks stylzycia_cliks
+1            0             0               0
+4            0             0               1
+5            0             0               0
+6            0             0               0
+8            1             0               0
+10           0             0               0
+   mototech_cliks kobieta_cliks ciekawostki_cliks
+1               0             1                 0
+4               0             0                 0
+5               0             0                 0
+6               0             0                 0
+8               0             0                 0
+10              0             0                 1
+                                                                                                                                                                                                                                                                                                                                         kolejnosc
+1                                                                                                                                                                        [Kobieta#6001,Moto#5067,Naglowek#0,SwietaZtesco#4559,Zakupy#7451,Stopka#11408,Stream#10519,Sport#3857,Ciekawostki#9611,Stylzycia#2403,Finanse#8331,Film#6962,Glonews#388]
+4                                                                              [Stylzycia#1384,Zakupy#6344.6669921875,Sport#5169.6669921875,SwietaZtesco#3774.666748046875,Kobieta#7360.6669921875,Naglowek#0,Glonews#84,Stopka#10208.333984375,Film#5821.33349609375,Ciekawostki#8487,Finanse#2762,Moto#4256.666748046875,Stream#9330.6669921875]
+5  [Moto#2000.0000660308838,Stylzycia#5469.6668960937495,Finanse#3131.3334,Stopka#10824.3334,SwietaZtesco#4144.0001480468745,Ciekawostki#4626.0001480468745,Film#6629.3333999999995,Naglowek#0.000025976562483265297,Stream#9946.66689609375,Zakupy#7152.6668960937495,Kobieta#8168.6668960937495,Sport#9295.0003921875,Glonews#85.00002597656248]
+6                                                                                                                                                                           [Zakupy#6317,Stylzycia#2422,SwietaZtesco#3659,Naglowek#0,Ciekawostki#8041,Film#5829,Moto#1488,Sport#4167,Glonews#84,Finanse#6979,Stopka#9838,Stream#8949,Kobieta#4868]
+8                                                                                                                                                                           [Kobieta#7987,Naglowek#0,Zakupy#6263,Finanse#6925,Glonews#84,Moto#3604,Stream#8948,SwietaZtesco#3096,Sport#1488,Stopka#9837,Ciekawostki#2189,Stylzycia#4538,Film#5774]
+10                                                                                                                                                                          [Stylzycia#4264,Kobieta#3356,Naglowek#0,SwietaZtesco#2874,Sport#1384,Moto#6747,Glonews#84,Stream#8668,Ciekawostki#2036,Zakupy#5949,Film#5424,Finanse#7660,Stopka#9546]
+   scroll plec rok_urodzenia         Struktura
+1      68 <NA>            -1    StylzyciaSport
+4      28 <NA>            -1  StylzyciaFinanse
+5     388 <NA>            -1   MototechFinanse
+6      16 <NA>            -1 MototechStylzycia
+8      22 <NA>            -1  SportCiekawostki
+10     36 <NA>            -1  SportCiekawostki
+   Str.1y Str.2y Str.1sekcja Str.2sekcja
+1    2403   3857   Stylzycia       Sport
+4    1384   2762   Stylzycia     Finanse
+5    2000   3131    Mototech     Finanse
+6    1488   2422    Mototech   Stylzycia
+8    1488   2189       Sport Ciekawostki
+10   1384   2036       Sport Ciekawostki
