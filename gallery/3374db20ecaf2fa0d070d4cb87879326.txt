@@ -1,0 +1,7 @@
+    State Type.of.Crime                                Crime Year Count
+1 Alabama Violent Crime Murder and nonnegligent Manslaughter 1960   406
+2 Alabama Violent Crime Murder and nonnegligent Manslaughter 1961   427
+3 Alabama Violent Crime Murder and nonnegligent Manslaughter 1962   316
+4 Alabama Violent Crime Murder and nonnegligent Manslaughter 1963   340
+5 Alabama Violent Crime Murder and nonnegligent Manslaughter 1964   316
+6 Alabama Violent Crime Murder and nonnegligent Manslaughter 1965   395
