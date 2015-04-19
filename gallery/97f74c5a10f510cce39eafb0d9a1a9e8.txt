@@ -1,0 +1,14 @@
+    plec
+869    K
+255    M
+757    X
+532    M
+707    X
+217    K
+                                                                                                                                                                                                                             topics
+869                                                                                                                                                                                                            {"technologia":1.17}
+255                                                                                                                                                  {"kuchnia":1.8,"kultura":2.99,"biznes":2.65,"finanse":2.54,"technologia":2.99}
+757 {"dom":2.84,"rodzina":2.89,"zwierzęta":2.75,"biznes":1.35,"nieruchomość":1.8,"kuchnia":3.81,"zdrowie":1.99,"kibic":1.8,"ogród":2.31,"uroda":4.5,"motoryzacja":2.53,"kultura":1.99,"film":2.53,"podróż":2.75,"technologia":2.98}
+532                                                                                                                                                                    {"kuchnia":2.42,"plotka":1.33,"wnętrze":1.48,"kultura":1.24}
+707                                                                                                     {"kuchnia":2.82,"rodzina":2.32,"wnętrze":2.94,"zdrowie":2.18,"kultura":1.46,"motoryzacja":4.49,"film":3.25,"edukacja":2.94}
+217                                                                                                            {"dom":7.88,"moda":6.81,"plotka":12.77,"rodzina":22.4,"wnętrze":6.95,"motoryzacja":7.02,"film":18.88,"muzyka":10.69}
