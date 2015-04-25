@@ -1,0 +1,35 @@
+  cohort patient.age_at_initial_pathologic_diagnosis patient.bcr_patient_barcode
+1   BRCA                                          70                tcga-a1-a0sb
+2   BRCA                                          59                tcga-a1-a0sd
+3   BRCA                                          54                tcga-a1-a0sf
+4   BRCA                                          61                tcga-a1-a0sg
+5   BRCA                                          39                tcga-a1-a0sh
+6   BRCA                                          52                tcga-a1-a0si
+  patient.clinical_cqcf.country patient.clinical_cqcf.histological_type
+1                 united states                          other  specify
+2                 united states           infiltrating ductal carcinoma
+3                 united states           infiltrating ductal carcinoma
+4                 united states                          other  specify
+5                 united states           infiltrating ductal carcinoma
+6                 united states           infiltrating ductal carcinoma
+  patient.days_to_last_followup patient.days_to_death stage      therapy
+1                           259                    NA     1         <NA>
+2                           437                    NA     2         <NA>
+3                          1463                    NA     2 chemotherapy
+4                           434                    NA     2 chemotherapy
+5                          1437                    NA     2 chemotherapy
+6                           635                    NA     2         <NA>
+  patient.vital_status patient.drugs.drug.drug_name patient.drugs.drug-2.drug_name
+1                    0                         <NA>                           <NA>
+2                    0                         <NA>                           <NA>
+3                    0                           tc                      tamoxifen
+4                    0                         <NA>                           <NA>
+5                    0                           tc                           <NA>
+6                    0                         <NA>                           <NA>
+      TP53            MDM2 times
+1 Missense  (2248.5,50339]   259
+2 Missense (1674.7,2248.5]   437
+3    Other (1674.7,2248.5]  1463
+4    Other  (2248.5,50339]   434
+5 Missense  (2248.5,50339]  1437
+6 Missense (1183.7,1674.7]   635
