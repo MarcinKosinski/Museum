@@ -1,0 +1,7 @@
+         kto                 domena count
+1       Duda                fakt.pl    22
+2       Duda        gazetaprawna.pl    15
+3       Duda               tvn24.pl    10
+4       Duda wiadomosci.dziennik.pl    17
+5       Duda     wiadomosci.onet.pl    49
+6 Komorowski                fakt.pl    13
