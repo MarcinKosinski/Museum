@@ -1,0 +1,7 @@
+  group weight
+1   Ctl   4.17
+2   Ctl   5.58
+3   Ctl   5.18
+4   Ctl   6.11
+5   Ctl   4.50
+6   Ctl   4.61
